@@ -67,9 +67,9 @@
 
 |Contributor|Focused on|Contributions| 
 |:-----:|:-----:|:-----:|
-|Tobigs 15기 조준혁(Leader)|대시보드|대시보드 기획 및 제작|
-|Tobigs 15기 이수민|대시보드|대시보드 기획 및 제작|
-|Tobigs 16기 정수연|대시보드|대시보드 전체 디자인 및 제작|
-|Tobigs 15기 김동현|데이터|데이터크롤링 및 자기소개서 추천 모델링|
-|Tobigs 16기 김송민|데이터|데이터크롤링 및 textrank 키워드추출|
-|Tobigs 16기 김주호|데이터|데이터크롤링 및 불용어처리|
+|Tobigs 15th Junhyuk Cho|Dashboard|Team Lead|
+|Tobigs 15th Sumin Lee|Dashboard|Creating Dashboard|
+|Tobigs 16th Suyeon Jung|Dashboard|Dashboard Design|
+|Tobigs 15th Donghyun Kim|Data|Data Crawling & Recommendation Modeling|
+|Tobigs 16th Jooho Kim|Data|Data Crawling & Removing stop words(TF-IDF)|
+|Tobigs 16th Songmin Kim|Data|Data Crawling & Keyword Extraction(TextRank)|
